@@ -1,0 +1,5 @@
+Hello! I'm Leif!
+Welcome to my garden.
+I suppose you're here to learn about growing plants?
+Pick a plant and lets get started!
+\plantSelection

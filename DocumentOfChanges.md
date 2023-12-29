@@ -1,0 +1,13 @@
+List of changes made since last submission:
+- changed the game font
+- updated images in the start menu and plant selection menu.
+- fixed the water animatioin
+- added succulent images
+- created consts for easy access/management
+- added missing comments
+- updated the way model and plant check and update stage, respectively
+- updated the way user can change and check ph levels of the plant's soil
+- added extra dialogue for random facts about planting/gardening
+- added bug sound effects
+- added missing help menu items/descriptions
+- added ending scene with flower balloons animated by Box2D
